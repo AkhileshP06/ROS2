@@ -20,7 +20,7 @@ The project has the following structure:
 ## Usage
 To try any of the lab assignments follow these steps :
 
-1. Refer [ROS2 documentation](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html) to setup a ROS2 workspace.
+1. Refer [ROS2 documentation](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html) to create & setup a ROS2 workspace.
 
 2. Navigate to the root of your workspace and enter the command ```colcon build``` to build all packages inside the workspace or enter the command ```colcon build --packages-select <my_package>``` to build a specific package
 
